@@ -1,0 +1,2 @@
+# essentials
+ionic based project
